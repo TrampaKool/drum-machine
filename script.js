@@ -127,7 +127,9 @@ const DrumMachine = () => {
       setCurrArr(arr);
       arr = await getPresetArr(presets.electronic);
       setElectronicArr(arr);
-      setDisplay("Default Preset");
+	  if (display === "Loading audio") {
+		setDisplay("Default Preset");
+	  }
     };
     loadSounds();
 
