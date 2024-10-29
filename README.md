@@ -1,4 +1,3 @@
-# Drum Machine
-
-A Pen created on CodePen.io. Original URL: [https://codepen.io/Lab-Pap/pen/XWvzMJJ](https://codepen.io/Lab-Pap/pen/XWvzMJJ).
+# drum-machine
+A Drum Machine with two presets. The user can press the buttons to play sound and modify some settings.
 
